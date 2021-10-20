@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 <!--
-**fabyolafc/fabyolafc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Hey
 
-Here are some ideas to get you started:
+My name is Fabyola Campos, I'm from Brazil and I'm currently taking a programming course. I am always open to new challenges and ready for change. "The more I know, the more I am",🥰
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
