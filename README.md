@@ -42,7 +42,7 @@ Dedicated and hardworking, with determination to deliver excellence.👩‍💼
   <a href="https://vm.tiktok.com/ZM8Q5h7Lh/" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>  
  </div>
   
-  
+   ![Snake animation](https://github.com/fabyolafc/fabyolafc/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 #Hey
