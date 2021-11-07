@@ -1,10 +1,18 @@
 ### Hi there 👋
 
-My name is Fabyola Campos, I'm from Brazil and I'm currently taking a programming course. I am always open to new challenges and ready for change. "The more I know, the more I am".🥰
+My name is Fabyola Campos, I'm from Brazil and I'm currently taking a programming course💻. I am always open to new challenges and ready for change. "The more I know, the more I am".🥰
+I believe that one of my strengths is the organization, the ability to adapt to change and teamwork.📚
+Dedicated and hardworking, with determination to deliver excellence.👩‍💼
+
+-🔭Currently I am working in... Health clinic with reception assistant
+-🌱I am currently learning... Programming
+-🤔 What are your future plans... I want to do falcolle law and learn more about programming
+-👯My hobbies are... Reading and learning new skills
+-⚡Curiosity... I love marathon series and movies on weekends
+
 
 <!--
 #Hey
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
