@@ -43,7 +43,7 @@ Dedicated and hardworking, with determination to deliver excellence.👩‍💼
  </div>
   
    ![Snake animation](https://github.com/fabyolafc/fabyolafc/blob/output/github-contribution-grid-snake.svg)
-  
+  ![download20211104083828](https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png)
   
 <!--
 #Hey
