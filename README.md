@@ -1,23 +1,23 @@
-### Hi there 👋
-
-My name is Fabyola Campos, I'm from Brazil and I'm currently taking a programming course💻. I am always open to new challenges and ready for change. "The more I know, the more I am".🥰
-<br>
-I believe that one of my strengths is the organization, the ability to adapt to change and teamwork.📚
-<br>
-Dedicated and hardworking, with determination to deliver excellence.👩‍💼
+### Olá meu nome é Fabyola 👋
+![download20211104083828](https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png)
 <br><br>
-
--🔭Currently I am working in... Health clinic with reception assistant
+Sou do Brasil e atualmente estou fazendo curso de programação💻. Estou sempre aberta a novos desafios e pronta para mudanças. “Quanto mais eu sei, mais eu sou”🥰. 
 <br>
--🌱I am currently learning... Programming
+Acredito que um dos meus pontos fortes é a organização, a capacidade de adaptação às mudanças e o trabalho em equipe.📚
 <br>
--🤔 What are your future plans... I want to do falcolle law and learn more about programming
+Dedicada e esforçada, com determinação em entregar excelência.👩‍💼
+<br><br>
+-🔭Atualmente trabalho em ... Posto de saúde com auxiliar de recepção
 <br>
--👯My hobbies are... Reading and learning new skills
+-🌱 Atualmente estou aprendendo ... Programação
 <br>
--⚡Curiosity... I love marathon series and movies on weekends
+-🤔 Quais são seus planos futuros ... Eu quero fazer falcudade de direito e aprender mais sobre programação
 <br>
--📫How to reach me... fabyolacampos20@gmail.com
+-👯Meus hobbies são ... Ler e aprender novas habilidades
+<br>
+-⚡Curiosidade ... Eu amo maratonar series e filmes nos finais de semana
+<br>
+-📫Como entrar em contato comigo ... fabyolacampos20@gmail.com
 <br>
 
 <div align="center">
@@ -43,7 +43,6 @@ Dedicated and hardworking, with determination to deliver excellence.👩‍💼
  </div>
   
    ![Snake animation](https://github.com/fabyolafc/fabyolafc/blob/output/github-contribution-grid-snake.svg)
-  ![download20211104083828](https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png)
   
 <!--
 #Hey
@@ -56,3 +55,6 @@ Dedicated and hardworking, with determination to deliver excellence.👩‍💼
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+
+
