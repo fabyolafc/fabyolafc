@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Fabyola Campos 👋
-  <img align="right" alt="fabyola" height="150" style="border-radius:50px;" src="![download20211104083828](https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png)">
+  
+![download20211104083828](https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png)
 
 <di>
   <p align="center">Sou do Brasil e atualmente estou fazendo curso de programação💻. Estou sempre aberta a novos desafios e pronta para mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p>
