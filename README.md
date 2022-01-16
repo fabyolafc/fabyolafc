@@ -1,13 +1,15 @@
 ### Olá! Eu sou a Fabyola Campos 👋
-![download20211104083828](https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png)
-<br><br>
-Sou do Brasil e atualmente estou fazendo curso de programação💻. Estou sempre aberta a novos desafios e pronta para mudanças. “Quanto mais eu sei, mais eu sou”🥰. 
-<br>
-Acredito que um dos meus pontos fortes é a organização, a capacidade de adaptação às mudanças e o trabalho em equipe.📚
-<br>
-Dedicada e esforçada, com determinação em entregar excelência.👩‍💼
-<br><br>
 
+![download20211104083828](https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png)
+
+<di>
+  <p align="center">Sou do Brasil e atualmente estou fazendo curso de programação💻. Estou sempre aberta a novos desafios e pronta para mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p>
+  <p align="center">Acredito que um dos meus pontos fortes é a organização, a capacidade de adaptação às mudanças e o trabalho em equipe.📚</p>
+  <p align="center">Dedicada e esforçada, com determinação em entregar excelência.👩‍💼</p>
+</div>
+  
+##
+  
 <div align="center">
   <a href="https://github.com/fabyolafc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabyolafc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +24,7 @@ Dedicada e esforçada, com determinação em entregar excelência.👩‍💼
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/>
 
-  ##
+##
   
  <div>
   <a href="https://www.linkedin.com/in/fabyola-campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
@@ -34,23 +36,9 @@ Dedicada e esforçada, com determinação em entregar excelência.👩‍💼
  </div>
   
    ![Snake animation](https://github.com/fabyolafc/fabyolafc/blob/output/github-contribution-grid-snake.svg)
+
+ <p align="center">Feito com ❤️</p>
  
-  
-  
-<!--
--🔭Atualmente trabalho em ... Não trabalho
-<br>
--🌱 Atualmente estou aprendendo ... Programação
-<br>
--🤔 Quais são seus planos futuros ... Eu quero fazer falcudade de direito e aprender mais sobre programação
-<br>
--👯Meus hobbies são ... Ler e aprender novas habilidades
-<br>
--⚡Curiosidade ... Eu amo maratonar series e filmes nos finais de semana
-<br>
--📫Como entrar em contato comigo ... fabyolacampos20@gmail.com
-<br>
--->
  
 
 
