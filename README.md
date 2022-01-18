@@ -2,7 +2,7 @@
 
  <img align="right" alt="fabyola" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png">
 
-<di>
+<div>
   <p align="center">Sou do Brasil e atualmente estou fazendo curso de programação💻. Estou sempre aberta a novos desafios e pronta para mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p>
   <p align="center">Acredito que um dos meus pontos fortes é a organização, a capacidade de adaptação às mudanças e o trabalho em equipe.📚</p>
   <p align="center">Dedicada e esforçada, com determinação em entregar excelência.👩‍💼</p>
@@ -22,7 +22,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
+</div><br>
 
 ##
   
