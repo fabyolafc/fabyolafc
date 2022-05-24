@@ -1,5 +1,9 @@
 ### <h1 align="center">Olá! Eu sou a Fabyola Campos 👋</h1>
 
+<p align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=FF36F3&size=28&center=true&vCenter=true&lines=Full-Stack+Developer"(https://git.io/typing-svg)>
+ </p>
+
  <img align="right" alt="fabyola" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/92693153/143438192-e48f8c22-82d0-4a0e-9279-7c9a890aafed.png">
 
 <div>
@@ -23,9 +27,10 @@
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="js" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br>
 
-##
+## Você pode me encontrar
   
  <div>
   <a href="https://www.linkedin.com/in/fabyola-campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
