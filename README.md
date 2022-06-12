@@ -1,8 +1,5 @@
 ### <h1 align="center">Olá! Eu sou a Fabyola Campos 👋</h1>
 
- <a href="https://github.com/fabyolafc/Algoritmo"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Algoritmo&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-
-
 <p align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?color=FF36F3&size=28&center=true&vCenter=true&lines=Full-Stack+Developer"(https://git.io/typing-svg)>
  </p>
@@ -50,6 +47,4 @@
    ![Snake animation](https://github.com/fabyolafc/fabyolafc/blob/output/github-contribution-grid-snake.svg)
  
  <p align="center">Feito com ❤️</p>
- 
-
 
