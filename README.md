@@ -51,6 +51,8 @@
  <h2>Projetos</h2>
  
  <a href="git@github.com:fabyolafc/Projeto-Java"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-Java&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="git@github.com:fabyolafc/Projeto-Java"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=BlogPessoal&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+ <a href="git@github.com:fabyolafc/Projeto-Java"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=blog-react&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   
    ![Snake animation](https://github.com/fabyolafc/fabyolafc/blob/output/github-contribution-grid-snake.svg)
  
