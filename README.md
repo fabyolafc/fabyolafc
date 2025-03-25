@@ -63,7 +63,6 @@
 
   
   ![Snake animation](https://github.com/fabyolafc/fabyolafc/blob/output/github-contribution-grid-snake.svg)
-
  
  <p align="center">Feito com ❤️</p>
 
