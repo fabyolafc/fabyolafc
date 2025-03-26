@@ -4,9 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&lines=Full-Stack+Developer" alt="Typing SVG">
 </p>
 
-<div align="center">
-  <img alt="fabyola" height="150" style="border-radius:50px; margin-right: 20px;" src="https://api.dicebear.com/9.x/adventurer/svg?seed=Avery">
-</div>
+<p align="center">
+  <img alt="fabyola" src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/vibrent_1.png" height="150" style="border-radius:50%;">
+</p>
+
 
 <div align="center">
   <p>Sou do Brasil e atualmente estou fazendo curso de programação💻. Estou sempre aberta a novos desafios e pronta para mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p>
