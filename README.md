@@ -15,6 +15,12 @@
   <p>Dedicada e esforçada, com determinação em entregar excelência.👩‍💼</p>
 </div>
 
+<p align="center">
+  <a href="https://fabyola.netlify.app/">
+    <img src="https://img.shields.io/badge/Visite%20meu%20Portf%C3%B3lio-blueviolet" alt="Meu Portfólio">
+  </a>
+</p>
+
 ---
 
 ## 📊 Estatísticas do GitHub
