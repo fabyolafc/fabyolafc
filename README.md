@@ -53,21 +53,11 @@
 ## 📞 Você pode me encontrar
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fabyola-campos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/fabyolacampos/?hl=pt-br" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-8A2BE2?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://m.facebook.com/fabyola.campos.54" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-8A2BE2?style=flat&logo=facebook&logoColor=white" alt="Facebook">
-  </a>
-  <a href="mailto:fabyolacampos20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://twitter.com/Fabyola__?t=VT1gN4-HdWgyV9NGVZRD0w&s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-8A2BE2?style=flat&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  <a href="https://www.linkedin.com/in/fabyola-campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/fabyolacampos/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-8A2BE2?style=flat&logo=instagram&logoColor=white" target="_blank" alt="Instagram"></a>
+  <a href="https://m.facebook.com/fabyola.campos.54" target="_blank"><img src="https://img.shields.io/badge/Facebook-8A2BE2?style=flat&logo=facebook&logoColor=white" target="_blank" alt="Facebook"></a>
+  <a href="mailto:fabyolacampos20@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A2BE2?style=flat&logo=gmail&logoColor=white" target="_blank" alt="Gmail"></a>
+  <a href="https://twitter.com/Fabyola__?t=VT1gN4-HdWgyV9NGVZRD0w&s=08" target="_blank"><img src="https://img.shields.io/badge/Twitter-8A2BE2?style=flat&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
 </div>
 
 ---
@@ -75,15 +65,10 @@
 ## 🎨 Projetos
 
 <div align="center">
-  <a href="https://github.com/fabyolafc/Projeto-Java">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-Java&theme=tokyonight" alt="Projeto-Java">
-  </a>
-  <a href="https://github.com/fabyolafc/BlogPessoal">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=BlogPessoal&theme=tokyonight" alt="BlogPessoal">
-  </a>
-  <a href="https://github.com/fabyolafc/blog-react">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=blog-react&theme=tokyonight" alt="blog-react">
-  </a>
+  <a href="https://github.com/fabyolafc/Projeto-Java"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-Java&theme=tokyonight" alt="Projeto-Java"></a>
+<a href="https://github.com/fabyolafc/BlogPessoal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=BlogPessoal&theme=tokyonight" alt="BlogPessoal"></a>
+<a href="https://github.com/fabyolafc/blog-react"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=blog-react&theme=tokyonight" alt="blog-react"></a>
+
 </div>
 
 ---
