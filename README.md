@@ -10,9 +10,9 @@
 
 
 <div align="center">
-  <p>Sou do Brasil e atualmente estou fazendo curso de programação💻. Estou sempre aberta a novos desafios e pronta para mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p>
-  <p>Acredito que um dos meus pontos fortes é a organização, a capacidade de adaptação às mudanças e o trabalho em equipe.📚</p>
-  <p>Dedicada e esforçada, com determinação em entregar excelência.👩‍💼</p>
+    <p>Atualmente estou graduando em Análise e Desenvolvimento de Sistemas💻. Apaixonada por tecnologia, estou sempre aberta a novos desafios e pronta para me adaptar às mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p> 
+    <p>Entre meus principais pontos fortes estão a comunicação, a resolução de problemas e o trabalho em equipe.📚</p> 
+    <p>Sou dedicada, determinada e comprometida em entregar excelência em tudo o que faço, sempre buscando aprimorar minhas habilidades para agregar valor aos projetos em que atuo.👩‍💼</p>
 </div>
 
 <p align="center">
