@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img alt="fabyola" src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/vibrent_1.png" height="150" style="border-radius:50%;">
+  <img alt="fabyola" src="https://i.imgur.com/64Ut96K_d.png?maxwidth=520&shape=thumb&fidelity=high" height="160" style="border-radius:50%;">
 </p>
 
 
