@@ -77,6 +77,7 @@
   <a href="https://github.com/fabyolafc/Projeto-Java"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-Java&theme=tokyonight" alt="Projeto-Java"></a>
 <a href="https://github.com/fabyolafc/BlogPessoal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=BlogPessoal&theme=tokyonight" alt="BlogPessoal"></a>
 <a href="https://github.com/fabyolafc/blog-react"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=blog-react&theme=tokyonight" alt="blog-react"></a>
+<a href="https://github.com/fabyolafc/nikel"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=blog-react&theme=tokyonight" alt="nikel"></a>
 
 </div>
 
