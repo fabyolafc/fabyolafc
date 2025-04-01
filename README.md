@@ -26,13 +26,11 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/fabyolafc">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabyolafc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabyolafc&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=fabyolafc&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B"/>
 </div>
-
-
 
 ---
 
@@ -77,7 +75,14 @@
   <a href="https://github.com/fabyolafc/Projeto-Java"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-Java&theme=tokyonight" alt="Projeto-Java"></a>
 <a href="https://github.com/fabyolafc/BlogPessoal"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=BlogPessoal&theme=tokyonight" alt="BlogPessoal"></a>
 <a href="https://github.com/fabyolafc/blog-react"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=blog-react&theme=tokyonight" alt="blog-react"></a>
-<a href="https://github.com/fabyolafc/nikel"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=blog-react&theme=tokyonight" alt="nikel"></a>
+<a href="https://github.com/fabyolafc/nikel"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=nikel&theme=tokyonight" alt="nikel"></a>
+<a href="https://github.com/fabyolafc/nlw-expert-notes"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=nlw-expert-notes&theme=tokyonight" alt="nlw-expert-notes"></a>
+<a href="https://github.com/fabyolafc/codeMater"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=codeMater&theme=tokyonight" alt="codeMater"></a>
+<a href="https://github.com/fabyolafc/Projeto-GTA"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Spotify&theme=tokyonight" alt="Spotify"></a>
+<a href="https://github.com/fabyolafc/One-piece"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=One-piece&theme=tokyonight" alt="One-piece"></a>
+<a href="https://github.com/fabyolafc/Projeto-X-Men"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-X-Men&theme=tokyonight" alt="Projeto-X-Men"></a>
+<a href="https://github.com/fabyolafc/Projeto-GTA"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-GTA&theme=tokyonight" alt="Projeto-GTA"></a>
+
 
 </div>
 
