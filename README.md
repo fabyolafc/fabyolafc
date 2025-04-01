@@ -82,7 +82,7 @@
 <a href="https://github.com/fabyolafc/nikel"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=nikel&theme=tokyonight" alt="nikel"></a>
 <a href="https://github.com/fabyolafc/nlw-expert-notes"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=nlw-expert-notes&theme=tokyonight" alt="nlw-expert-notes"></a>
 <a href="https://github.com/fabyolafc/codeMater"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=codeMater&theme=tokyonight" alt="codeMater"></a>
-<a href="https://github.com/fabyolafc/Projeto-GTA"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Spotify&theme=tokyonight" alt="Spotify"></a>
+<a href="https://github.com/fabyolafc/Spotify"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Spotify&theme=tokyonight" alt="Spotify"></a>
 <a href="https://github.com/fabyolafc/One-piece"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=One-piece&theme=tokyonight" alt="One-piece"></a>
 <a href="https://github.com/fabyolafc/Projeto-X-Men"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-X-Men&theme=tokyonight" alt="Projeto-X-Men"></a>
 <a href="https://github.com/fabyolafc/Projeto-GTA"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=Projeto-GTA&theme=tokyonight" alt="Projeto-GTA"></a>
