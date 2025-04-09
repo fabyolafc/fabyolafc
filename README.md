@@ -45,7 +45,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8A2BE2?style=flat&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-8A2BE2?style=flat&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-8A2BE2?style=flat&logo=react&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-8A2BE2?style=flat&logo=typescript&logoColor=white" />
+ <!-- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-8A2BE2?style=flat&logo=typescript&logoColor=white" />-->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8A2BE2?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-8A2BE2?style=flat&logo=git&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-8A2BE2?style=flat&logo=java&logoColor=white" />
@@ -56,7 +56,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8A2BE2?style=flat&logo=php&logoColor=white" />
   <img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-8A2BE2?style=flat&logo=phpmyadmin&logoColor=white" />
   <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-8A2BE2?style=flat&logo=codeigniter&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8A2BE2?style=flat&logo=node.js&logoColor=white" />
+ <!-- <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8A2BE2?style=flat&logo=node.js&logoColor=white" />-->
 </div>
 
 ---
