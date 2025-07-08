@@ -10,7 +10,7 @@
 
 
 <div align="center">
-    <p>Atualmente estou graduando em Análise e Desenvolvimento de Sistemas💻. Apaixonada por tecnologia, estou sempre aberta a novos desafios e pronta para me adaptar às mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p> 
+    <p>Graduada em Análise e Desenvolvimento de Sistemas💻. Apaixonada por tecnologia, estou sempre aberta a novos desafios e pronta para me adaptar às mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p> 
     <p>Entre meus principais pontos fortes estão a comunicação, a resolução de problemas e o trabalho em equipe.📚</p> 
     <p>Sou dedicada, determinada e comprometida em entregar excelência em tudo o que faço, sempre buscando aprimorar minhas habilidades para agregar valor aos projetos em que atuo.👩‍💼</p>
 </div>
