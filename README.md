@@ -56,7 +56,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8A2BE2?style=flat&logo=php&logoColor=white" />
   <img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-8A2BE2?style=flat&logo=phpmyadmin&logoColor=white" />
   <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-8A2BE2?style=flat&logo=codeigniter&logoColor=white" />
- <!-- <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8A2BE2?style=flat&logo=node.js&logoColor=white" />-->
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8A2BE2?style=flat&logo=node.js&logoColor=white" />
 </div>
 
 ---
