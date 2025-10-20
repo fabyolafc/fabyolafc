@@ -10,9 +10,13 @@
 
 
 <div align="center">
-    <p>Graduada em Análise e Desenvolvimento de Sistemas💻. Apaixonada por tecnologia, estou sempre aberta a novos desafios e pronta para me adaptar às mudanças. “Quanto mais eu sei, mais eu sou”🥰.</p> 
-    <p>Entre meus principais pontos fortes estão a comunicação, a resolução de problemas e o trabalho em equipe.📚</p> 
-    <p>Sou dedicada, determinada e comprometida em entregar excelência em tudo o que faço, sempre buscando aprimorar minhas habilidades para agregar valor aos projetos em que atuo.👩‍💼</p>
+    <p>🙋‍♀️ Olá, meu nome é Fabyola, sou uma Desenvolvedora Front-end que vive no estado de Minas Gerais.</p>
+
+<p>Sou graduada em Análise e Desenvolvimento de Sistemas pelo IFNMG, com formações complementares em desenvolvimento web e participação em bootcamps voltados para o mercado de tecnologia. Tenho experiência em desenvolvimento Front-end com HTML, CSS, JavaScript e React, além de conhecimentos em Java, Spring, MySQL, Node.js e Git.</p>
+
+<p>Durante minha trajetória, conquistei experiência prática em projetos acadêmicos, pessoais e em grupo, o que me proporcionou o desenvolvimento de habilidades de resolução de problemas, comunicação e trabalho em equipe. Sou proativa, dedicada e apaixonada por aprender continuamente, sempre buscando encarar novos desafios e aplicar meus conhecimentos em projetos que gerem impacto.</p>
+
+<p>Atualmente, meu objetivo é consolidar minha carreira como Desenvolvedora Front-end, aplicando e aprimorando minhas habilidades em projetos desafiadores.</p>
 </div>
 
 <p align="center">
