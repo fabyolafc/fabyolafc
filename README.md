@@ -1,22 +1,18 @@
-# Olá! Eu sou a Fabyola Campos 👋
 
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&lines=Full-Stack+Developer" alt="Typing SVG">
-</p>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:7F00FF,100:E100FF&height=200&section=header&text=Olá,%20eu%20sou%20a%20Fabyola%20Campos!👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> 
 
 <p align="center">
   <img alt="fabyola" src="https://i.imgur.com/64Ut96K_d.png?maxwidth=520&shape=thumb&fidelity=high" height="160" style="border-radius:50%;">
 </p>
 
-
 <div align="center">
-    <p>🙋‍♀️ Olá, meu nome é Fabyola, sou uma Desenvolvedora Front-end que vive no estado de Minas Gerais.</p>
+    <p>🙋‍♀️ Olá, sou a Fabyola, graduada em Análise e Desenvolvimento de Sistemas pelo IFNMG, com formações complementares em desenvolvimento web e participação em bootcamps voltados ao mercado de tecnologia. Possuo experiência em desenvolvimento Front-end utilizando HTML, CSS, JavaScript e React, consumo de APIs REST e versionamento com Git/GitHub, além de conhecimentos em Java, Spring, MySQL, PHP e C++.</p>
 
-<p>Sou graduada em Análise e Desenvolvimento de Sistemas pelo IFNMG, com formações complementares em desenvolvimento web e participação em bootcamps voltados para o mercado de tecnologia. Tenho experiência em desenvolvimento Front-end com HTML, CSS, JavaScript e React, além de conhecimentos em Java, Spring, MySQL, Node.js e Git.</p>
+<p>Ao longo da minha trajetória, adquiri experiência prática em projetos acadêmicos, pessoais e colaborativos, o que contribuiu para o desenvolvimento de habilidades como resolução de problemas, comunicação e trabalho em equipe. Sou proativa, dedicada e movida pelo aprendizado contínuo, sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos.</p>
 
-<p>Durante minha trajetória, conquistei experiência prática em projetos acadêmicos, pessoais e em grupo, o que me proporcionou o desenvolvimento de habilidades de resolução de problemas, comunicação e trabalho em equipe. Sou proativa, dedicada e apaixonada por aprender continuamente, sempre buscando encarar novos desafios e aplicar meus conhecimentos em projetos que gerem impacto.</p>
-
-<p>Atualmente, meu objetivo é consolidar minha carreira como Desenvolvedora Front-end, aplicando e aprimorando minhas habilidades em projetos desafiadores.</p>
+<p>Atualmente, meu objetivo é consolidar minha carreira como Desenvolvedora Front-end, atuando em projetos desafiadores que me permitam evoluir tecnicamente e gerar impacto positivo por meio da tecnologia.</p>
 </div>
 
 <p align="center">
@@ -25,31 +21,34 @@
   </a>
 </p>
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=fabyolafc&color=blueviolet&style=flat-square" />
+<img src="https://img.shields.io/github/followers/fabyolafc?label=Followers&style=flat-square&color=blueviolet" />
+<img src="https://img.shields.io/github/stars/fabyolafc?label=Stars&style=flat-square&color=blueviolet" />
+
+</div>
+
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabyolafc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabyolafc&layout=compact&langs_count=7&theme=tokyonight"/>
- <!--<img width=800 src="https://github-profile-trophy.vercel.app/?username=fabyolafc&theme=tokyonight&rank=SSS,SS,S,AAA,AA,A,B"/>
- <img width=800 src="https://github-profile-trophy.vercel.app/?username=fabyolafc&theme=tokyonight"/>-->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fabyolafc&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabyolafc&theme=dracula"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabyolafc&theme=dracula"/>
+    
 </div>
-
-
-
-
 
 ---
 
-## 💻 Tecnologias que eu uso no meu dia
+## 💻 Tecnologias
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8A2BE2?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8A2BE2?style=flat&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-8A2BE2?style=flat&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-8A2BE2?style=flat&logo=react&logoColor=white" />
- <!-- <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-8A2BE2?style=flat&logo=typescript&logoColor=white" />-->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8A2BE2?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-8A2BE2?style=flat&logo=git&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-8A2BE2?style=flat&logo=java&logoColor=white" />
@@ -65,7 +64,7 @@
 
 ---
 
-## 📞 Você pode me encontrar
+## 📞 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fabyola-campos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-8A2BE2?style=flat&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"></a>
@@ -108,3 +107,5 @@
 </div>
 
 <p align="center">Feito com ❤️</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:7F00FF,100:E100FF&height=120&section=footer"/>
