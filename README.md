@@ -45,10 +45,12 @@
 ## 💻 Tecnologias
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img alt="React" src="https://img.shields.io/badge/-React-8A2BE2?style=flat&logo=react&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-8A2BE2?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8A2BE2?style=flat&logo=node.js&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-8A2BE2?style=flat&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-8A2BE2?style=flat&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-8A2BE2?style=flat&logo=javascript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-8A2BE2?style=flat&logo=react&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8A2BE2?style=flat&logo=bootstrap&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-8A2BE2?style=flat&logo=git&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-8A2BE2?style=flat&logo=java&logoColor=white" />
@@ -59,7 +61,6 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8A2BE2?style=flat&logo=php&logoColor=white" />
   <img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-8A2BE2?style=flat&logo=phpmyadmin&logoColor=white" />
   <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-8A2BE2?style=flat&logo=codeigniter&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8A2BE2?style=flat&logo=node.js&logoColor=white" />
 </div>
 
 ---
@@ -81,6 +82,7 @@
 <div align="center">
   
 <a href="https://github.com/fabyolafc/nlw-expert-notes"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=nlw-expert-notes&theme=tokyonight" alt="nlw-expert-notes"></a>
+<a href="https://github.com/fabyolafc/StudyTrack"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=StudyTrack&theme=tokyonight" alt="StudyTrack"></a>
 <a href="https://github.com/fabyolafc/dev-tasks"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=dev-tasks&theme=tokyonight" alt="dev-tasks"></a>
 <a href="https://github.com/fabyolafc/api-tarefas"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=api-tarefas&theme=tokyonight" alt="api-tarefas"></a>
 <a href="https://github.com/fabyolafc/FSW-Donalds"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=fabyolafc&repo=FSW-Donalds&theme=tokyonight" alt="FSW-Donalds"></a>
