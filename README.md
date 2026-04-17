@@ -8,11 +8,10 @@
 </p>
 
 <div align="center">
-    <p>🙋‍♀️ Olá, sou a Fabyola, graduada em Análise e Desenvolvimento de Sistemas pelo IFNMG, com formações complementares em desenvolvimento web e participação em bootcamps voltados ao mercado de tecnologia. Possuo experiência em desenvolvimento Front-end utilizando HTML, CSS, JavaScript e React, consumo de APIs REST e versionamento com Git/GitHub, além de conhecimentos em Java, Spring, MySQL, PHP e C++.</p>
+    <p>🙋‍♀️ Olá, sou a Fabyola, Desenvolvedora Frontend formada em Análise e Desenvolvimento de Sistemas pelo IFNMG, com experiência na construção de interfaces modernas e responsivas utilizando React.js, TypeScript, HTML, CSS e JavaScript. Atuação com componentização, gerenciamento de estado, uso de props, Styled Components e Context API, além de consumo de APIs REST (fetch, axios) e integração com backend.</p>
 
-<p>Ao longo da minha trajetória, adquiri experiência prática em projetos acadêmicos, pessoais e colaborativos, o que contribuiu para o desenvolvimento de habilidades como resolução de problemas, comunicação e trabalho em equipe. Sou proativa, dedicada e movida pelo aprendizado contínuo, sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos.</p>
+<p>Conhecimento em desenvolvimento backend com Node.js, Express e Prisma, além de experiência com bancos de dados relacionais (PostgreSQL, MySQL) e não relacional (MongoDB). Vivência com versionamento Git/GitHub, arquitetura MVC e aplicação de boas práticas de desenvolvimento.</p>
 
-<p>Atualmente, meu objetivo é consolidar minha carreira como Desenvolvedora Front-end, atuando em projetos desafiadores que me permitam evoluir tecnicamente e gerar impacto positivo por meio da tecnologia.</p>
 </div>
 
 <p align="center">
