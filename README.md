@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <p>🙋‍♀️ Olá, sou a Fabyola, Desenvolvedora FullStack formada em Análise e Desenvolvimento de Sistemas pelo IFNMG, com experiência na construção de interfaces modernas e responsivas utilizando React.js, TypeScript, HTML, CSS e JavaScript. Atuação com componentização, gerenciamento de estado, uso de props, Styled Components e Context API, além de consumo de APIs REST (fetch, axios) e integração com backend.</p>
+    <p>🙋‍♀️ Olá, sou a Fabyola, Desenvolvedora Full Stack formada em Análise e Desenvolvimento de Sistemas pelo IFNMG, com experiência na construção de interfaces modernas e responsivas utilizando React.js, TypeScript, HTML, CSS e JavaScript. Atuação com componentização, gerenciamento de estado, uso de props, Styled Components e Context API, além de consumo de APIs REST (fetch, axios) e integração com backend.</p>
 
 <p>Conhecimento em desenvolvimento backend com Node.js, Express e Prisma, além de experiência com bancos de dados relacionais (PostgreSQL, MySQL) e não relacional (MongoDB). Vivência com versionamento Git/GitHub, arquitetura MVC e aplicação de boas práticas de desenvolvimento.</p>
 
